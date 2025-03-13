@@ -1,0 +1,3 @@
+﻿# Ignore SSH key files 
+gitlab 
+gitlab.pub
